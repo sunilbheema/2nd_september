@@ -1,4 +1,5 @@
 import os
+import math
 print("hello " + name)
 print("text after commit")
-line added after staging the secondapp.py
+print(math.sqrt(9))
